@@ -13,6 +13,14 @@ namespace ConsoleQuiz
             IntroGreeting();
 
             List<Question> question = new List<Question> {
+                //THIS IS WHERE YOU CREATE YOUR QUESTIONS
+                //parameter list is as follows:
+                //the question -> the possible answers - > the type of question->
+                //the index of the answer in the list of possible answers
+                
+                //multiple choice MUST BE GIVEN 4 possible answers
+                //true and false MUST BE GIVEN 2 possible answers
+                
                 //multiple choice type question instantiation
                 new Question("What is 1 + 1 ?", new string[] { "1", "2", "3", "4" }, Question.multipleChoice, 1),
                 //true/false type question instantiation
