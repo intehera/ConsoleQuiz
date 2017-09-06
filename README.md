@@ -8,7 +8,7 @@ Copy the code into these files, ensuring you have named the class file correctly
 
 (Program.cs will be automatically generated for you, replace it with the one here.)
 
-Open Program.cs and edit a;; the questions and answers - the comments explain what is what.
+Open Program.cs and edit all the questions and answers - the comments explain what is what.
 
 Cheers,
 
